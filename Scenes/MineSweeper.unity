@@ -2030,7 +2030,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   width: 10
   height: 20
-  mineCount: 2
+  mineCount: 30
   flagButton: {fileID: 16453332}
   resetButton: {fileID: 617574605}
   openButton: {fileID: 634751833}
